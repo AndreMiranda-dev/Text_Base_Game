@@ -1,4 +1,4 @@
-# Text_Base_Game_Psudocode
+# Text_Base_Game_ReadMe
 
 Green Valley Highschool Break In Text Game Storyboard
 Andre Miranda
@@ -9,6 +9,13 @@ Lawrence Meadors
 
 You are a Highschool student who has forgotten your gym clothes, jacket, bookbag, and all 3 of your textbooks at school but you have 3 big tests tomorrow to study for! To pass each test, you need to collect each of your books. You must find your bookbag before leaving school. If you don’t find your jacket it will be too cold to walk home, and you will have to call your parents to come pick you up losing vital study time as you wait for your parents to get out of work to pick you up, failing 1 test. Finally, if you can’t find your gym clothes you will be worried about smelling bad in gym class and you won’t be able to focus properly on studying, failing 1 test. Beware! The janitor will be out cleaning the school, and the math teacher is staying late grading papers. Get caught being in school after hours and you will be forced to leave. You can choose to leave the school at any time after finding your bookbag, but not finding all other items and you may fail your tests.
 Here is the map of Green Valley High School and the items you need to find: 
+
+
+
+![image](https://github.com/user-attachments/assets/72193033-7360-4176-b930-51a04b616210)
+
+
+
 Pseudocode
 
 START
