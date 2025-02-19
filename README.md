@@ -1,4 +1,4 @@
-# Text_Base_Game
+# Text_Base_Game_Psudocode
 
 Green Valley Highschool Break In Text Game Storyboard
 Andre Miranda
