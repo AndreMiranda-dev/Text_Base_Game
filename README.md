@@ -16,7 +16,7 @@ Here is the map of Green Valley High School and the items you need to find:
 
 
 
-Pseudocode Thought Process
+Pseudocode
 
 START
 IMPORT random
