@@ -1,11 +1,11 @@
-# Playthrough Testing (Passed)
+# Playthrough Testing (Passed):
 Intro (passed)
  
 
-Start menu quit (passed)
+Start menu: unrecognized entry and quit (passed)
  
  
-Start menu enter (passed) 
+Start menu: enter (passed) 
  
 
 Start Room (passed)
@@ -21,7 +21,10 @@ Testing Math Professor going home (passed)
 
 
 Janitor encounter after 10 moves errored out (fixed)
- 
+
+
+Janitor encounter and successful game over (Passed)
+
 
 Testing Putting item in inventory (passed)
  
