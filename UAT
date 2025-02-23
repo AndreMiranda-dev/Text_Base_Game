@@ -1,31 +1,30 @@
 # Playthrough Testing (Passed)
-Intro (passed):
+Intro (passed)
  
 
-Start menu quit (passed):
+Start menu quit (passed)
  
  
-Start menu enter (passed):
- 
- 
-
-Start Room (passed):
-
-
-Caught by Math Teacher and successful game over (passed):
+Start menu enter (passed) 
  
 
-Found a logic error with my code on finding an item and adding to inventory while professor is still in the room (fixed):
+Start Room (passed)
 
 
-Testing Math Professor going home (passed):
-
-
-Janitor encounter after 10 moves errored out (fixed):
+Caught by Math Teacher and successful game over (passed)
  
 
-Testing Putting item in inventory (passed): 
+Found a logic error with my code on finding an item and adding to inventory while professor is still in the room (fixed)
+
+
+Testing Math Professor going home (passed)
+
+
+Janitor encounter after 10 moves errored out (fixed)
  
 
-Testing collection of all items and winning (passed):
+Testing Putting item in inventory (passed)
+ 
+
+Testing collection of all items and winning (passed)
  
